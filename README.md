@@ -1,2 +1,3 @@
 # learning2
-this project for training some skills 
+this is my personal site 
+
